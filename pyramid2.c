@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 int main()
-{	int i,j,line,k;
+{	int i,j,line;
 	system("clear");
 	printf("ENTER THE NUMBER OF LINES:");
 	scanf("%d",&line);
